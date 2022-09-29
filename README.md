@@ -14,3 +14,14 @@ With that, I prepared the builder environment to use it at the second build stag
 After that, I just put the ENTRYPOINT to run the already compiled go script.
 
 
+
+
+## Image link
+https://hub.docker.com/r/buskari/hello
+
+OR
+
+run the following command on your terminal
+```bash
+  docker run buskari/hello
+```
